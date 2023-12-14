@@ -1,0 +1,19 @@
+.item{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    max-width: 600px;
+
+}
+li{
+    list-style-type: none;
+    width: 150px;
+    overflow: auto;
+}
+.btn{
+    background-color: gray;
+}
+
+.butn{
+    background-color: antiquewhite;
+}
